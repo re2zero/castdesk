@@ -202,9 +202,14 @@ Please ensure that you are running these commands from the root of the RustDesk 
 ## Snapshot
 
 ![image](https://user-images.githubusercontent.com/71636191/113112362-ae4deb80-923b-11eb-957d-ff88daad4f06.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fre2zero%2Fcastdesk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fre2zero%2Fcastdesk?ref=badge_shield)
 
 ![image](https://user-images.githubusercontent.com/71636191/113112619-f705a480-923b-11eb-911d-97e984ef52b6.png)
 
 ![image](https://user-images.githubusercontent.com/71636191/113112857-3fbd5d80-923c-11eb-9836-768325faf906.png)
 
 ![image](https://user-images.githubusercontent.com/71636191/135385039-38fdbd72-379a-422d-b97f-33df71fb1cec.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fre2zero%2Fcastdesk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fre2zero%2Fcastdesk?ref=badge_large)
